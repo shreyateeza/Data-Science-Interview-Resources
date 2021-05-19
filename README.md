@@ -108,6 +108,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## Classic Machine Learning Algorithms
 
+* [Why you should be Spot-Checking Algorithms on your Machine Learning Problems](https://machinelearningmastery.com/why-you-should-be-spot-checking-algorithms-on-your-machine-learning-problems/)
+
 ### 1. Logistic Regression
 
 * [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad) 📘 
