@@ -298,7 +298,7 @@ You can't afford to miss this if you are interviewing for a Big data role.
 ## General Interview Questions across the Spectrum (Reading)
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [Top 30 Data Science Interview Questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
-* [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [100+ Data Science Interview Questions You Must Prepare for 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [100 Data Science Interview Questions across FAANG](https://medium.com/@e22aafa7d95/c5a66186769a)
 * [The Most Comprehensive Data Science Interview Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 * [41 essential ML interview questions - Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
