@@ -56,6 +56,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 ***
 
 ## Probability and Statistics
+* [Must know answers](https://careerfoundry.com/en/blog/data-analytics/inferential-vs-descriptive-statistics/)
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
 * [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
